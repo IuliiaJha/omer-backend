@@ -6,7 +6,7 @@ var cn = {
     user: 'postgres',
     password:'abc'
 };
-
+//Eric changes file
 var db = pgp(cn);
 
 var arr = [];
